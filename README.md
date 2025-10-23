@@ -62,6 +62,21 @@ Before running this script, you need to have Nmap installed on your system.
     brew install nmap
     ```
 
+## Installation
+
+There are two easy ways to get the script.
+
+### Option 1: Clone with Git (Recommended)
+
+This is the best way to download the script and stay up-to-date. Open your terminal and run the following command:
+
+```bash
+git clone https://github.com/Juttstodio/Nmap-Interactive-Menu.git
+```
+
+### Option 2: Direct Download
+You can also download the script directly by clicking this link: **nmap_menu.sh** (Right-click and select "Save Link As...").
+
 ## Usage
 
 1.  **Save the script:** Save the provided script as `nmap_menu.sh` (or any other `.sh` filename).
