@@ -1,3 +1,10 @@
+License: Jutt Studio Attribution License (JSAL) 1.0
+
+This project is open for use, copying, modification, and redistribution,
+provided that the attribution "Original work by Jutt Studio" is preserved
+in all distributed copies, derivative works, documentation, and product
+interfaces. See LICENSE for details.
+
 # Nmap Interactive Menu
 
 **GitHub Repository:** [https://github.com/Juttstodio/Nmap-Interactive-Menu](https://github.com/Juttstodio/Nmap-Interactive-Menu)
@@ -94,3 +101,4 @@ Follow the on-screen prompts to select your desired scanning option and enter th
 
 ---
 Developed by Jutt Studio — Created by JS
+
