@@ -1,5 +1,7 @@
 # Nmap Interactive Menu
 
+**GitHub Repository:** [https://github.com/Juttstodio/Nmap-Interactive-Menu](https://github.com/Juttstodio/Nmap-Interactive-Menu)
+
 ## An Easy-to-Use Nmap Scanning Tool for Network Exploration & Security Audits
 
 This bash script provides a user-friendly, interactive menu to perform various Nmap scanning tasks. It simplifies complex Nmap commands into straightforward menu options, making network reconnaissance and security auditing more accessible.
