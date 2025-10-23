@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# Copyright (c) 2025 Jutt Studio
+# Licensed under the Jutt Studio Attribution License (JSAL) 1.0
+# See LICENSE file in repository root for full terms.
 # Nmap Interactive Menu Script
 # Easy-to-use interface for common Nmap scanning tasks
 
